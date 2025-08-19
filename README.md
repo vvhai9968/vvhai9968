@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 💻 I’m currently working with **.NET, React, PostgreSql**
+- 💻 I’m currently working with **.NET, React, PostgreSQL, RabbitMQ, Docker**
 - 📚 Always learning new technologies to improve my skills
 - 🎯 Goal: Build clean, scalable, and maintainable software
 - ☕ Fun fact: I can’t code without coffee!
@@ -17,5 +17,17 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,postgresql,docker" />
+ <div align="center">
+   <div>
+     <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,postgresql,mongodb" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" />
+     <img src="https://skillicons.dev/icons?i=rabbitmq,docker" />
+   </div>
+   <div>
+     <img src="https://skillicons.dev/icons?i=rider,postman,webstorm" />
+   </div>
+   <div>
+     <img src="https://skillicons.dev/icons?i=git" />
+   </div>
+ </div>
 </p>
